@@ -1,6 +1,6 @@
 # stable_ai
 
-A new Flutter project.
+A flutter Text-to-Image mobile application made with Stable Diffusion API
 
 ## Getting Started
 
